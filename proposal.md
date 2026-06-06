@@ -1,10 +1,12 @@
-Project Description: The emergence of supersolids - a phase of matter combining the properties of superfluidity and crystalline order - has garnered significant interest in quantum many-body physics. This project investigates the theoretical underpinnings and numerical modelling of supersolid formation in dipolar Bose-Einstein condensates (BECs) using an extended Gross-Pitaevskii equation (GPE). Unlike the standard GPE, the model employed here includes a non-local interaction term accounting for long-range dipole-dipole interactions (DDIs), which are anisotropic and tunable in modern ultracold atom experiments. The primary objective is to understand the conditions under which density modulations coexist with global phase coherence, thus leading to the supersolid phase. 
+# Project Description
+
+The emergence of supersolids - a phase of matter combining the properties of superfluidity and crystalline order - has garnered significant interest in quantum many-body physics. This project investigates the theoretical underpinnings and numerical modelling of supersolid formation in dipolar Bose-Einstein condensates (BECs) using an extended Gross-Pitaevskii equation (GPE). Unlike the standard GPE, the model employed here includes a non-local interaction term accounting for long-range dipole-dipole interactions (DDIs), which are anisotropic and tunable in modern ultracold atom experiments. The primary objective is to understand the conditions under which density modulations coexist with global phase coherence, thus leading to the supersolid phase. 
 
 The theoretical framework will focus on a modified GPE with a convolution integral that captures the non-local DDI potential. This equation will be analysed in homogenous geometry to identify the instabilities and bifurcation mechanisms that lead to the spontaneous formation of periodic structures. The interplay between contact interactions and DDIs, as well as the role of quantum fluctuations via Lee-Huang-Yang corrections, will be examined to delineate the phase diagram. Analytical approximations will be complemented by a linear stability analysis to predict the emergence of modulated ground states. 
 
 Numerically, the project will employ spectral methods and time-splitting techniques to solve the non-local GPE in one- and two-dimensional configurations. Simulations will reveal the dynamical pathways through which a uniform BEC transitions into a supersolid, often via modulational instability. The results will provide quantitive insights into the parameter regimes that support stable supersolids, contributing to the broader understanding of exotic quantum phases in dipolar systems.
 
-References
+# References
 
 [1] T. Lahaye, C. Menotti, L. Santos, M. Lewenstein, and T. Pfau, The physics of dipolar bosonic quantum
 gases, Reports on Progress in Physics 72, 126401 (2009).
